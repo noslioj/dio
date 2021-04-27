@@ -1,0 +1,16 @@
+C:\Users\joils\Documents\GitHub\dio\myApp\bin\Debug\net5.0\myApp.exe
+C:\Users\joils\Documents\GitHub\dio\myApp\bin\Debug\net5.0\myApp.deps.json
+C:\Users\joils\Documents\GitHub\dio\myApp\bin\Debug\net5.0\myApp.runtimeconfig.json
+C:\Users\joils\Documents\GitHub\dio\myApp\bin\Debug\net5.0\myApp.runtimeconfig.dev.json
+C:\Users\joils\Documents\GitHub\dio\myApp\bin\Debug\net5.0\myApp.dll
+C:\Users\joils\Documents\GitHub\dio\myApp\bin\Debug\net5.0\ref\myApp.dll
+C:\Users\joils\Documents\GitHub\dio\myApp\bin\Debug\net5.0\myApp.pdb
+C:\Users\joils\Documents\GitHub\dio\myApp\obj\Debug\net5.0\myApp.csprojAssemblyReference.cache
+C:\Users\joils\Documents\GitHub\dio\myApp\obj\Debug\net5.0\myApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joils\Documents\GitHub\dio\myApp\obj\Debug\net5.0\myApp.AssemblyInfoInputs.cache
+C:\Users\joils\Documents\GitHub\dio\myApp\obj\Debug\net5.0\myApp.AssemblyInfo.cs
+C:\Users\joils\Documents\GitHub\dio\myApp\obj\Debug\net5.0\myApp.csproj.CoreCompileInputs.cache
+C:\Users\joils\Documents\GitHub\dio\myApp\obj\Debug\net5.0\myApp.dll
+C:\Users\joils\Documents\GitHub\dio\myApp\obj\Debug\net5.0\ref\myApp.dll
+C:\Users\joils\Documents\GitHub\dio\myApp\obj\Debug\net5.0\myApp.pdb
+C:\Users\joils\Documents\GitHub\dio\myApp\obj\Debug\net5.0\myApp.genruntimeconfig.cache
